@@ -1,6 +1,6 @@
 
 
-# <h1 align="center"TodoList</h1>
+# <h1 align="center">TodoList</h1>
 
 TodoList é uma aplicação mobile, desenvolvida com o objetivo de auxiliar o usuário a organizar suas tarefas, assim otimizando seu tempo e sendo mais produtivo.
 
